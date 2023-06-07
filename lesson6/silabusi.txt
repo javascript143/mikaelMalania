@@ -1,0 +1,3 @@
+·ზედა ორდერის ფუნქციები (Higher order functions)
+·რას წარმოადგენს THIS საკვანძო სიტყვა
+·Hoisting

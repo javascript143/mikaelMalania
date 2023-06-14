@@ -1,0 +1,22 @@
+{
+    "name": "beqa",
+    "surname": "beridze",
+    "visitedLocationsV1": [
+        "tbilisi",
+        "paris",
+        "london"
+    ],
+    "visitedLocationsV2": [
+        {
+            "cityName": "tbilisi",
+            "startDate": 123123,
+            "endDate": 1652180015
+        },
+        {
+            "cityName": "paris",
+            "startDate": 123123,
+            "endDate": 1234123
+        }
+    ] 
+
+}

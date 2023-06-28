@@ -1,0 +1,4 @@
+.session storage, local storage
+·დეველოპერის ხელსაწყოები (Dev tools)
+·First paint and first contentful paint
+·საფინალო პროექტის განხილვა და არჩევა

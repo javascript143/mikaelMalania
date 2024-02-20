@@ -1,0 +1,16 @@
+<html>
+    <head></head>
+    <body>
+        <form style="display: flex; flex-direction: column;">
+            <!-- <input type="text" id="password" pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}$" required> -->
+            <input placeholder="Enter your first name" id="firstName" pattern="^[A-Za-z]+$">
+            <input placeholder="Enter your last name" id="lastName" pattern="^[A-Za-z]+$">
+            <input placeholder="Enter your username" id="username" pattern="^[a-zA-Z0-9_]{3,16}$">
+            <input type="text" id="email" placeholder="Enter your email" required>
+            <input type="text" id="password" placeholder="Enter your password" required>
+            <button type="submit">Submit</button>
+        </form>
+
+        <script type="text/javascript" src="/scripts/passValidation.js"></script>
+    </body>
+</html>

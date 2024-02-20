@@ -8,7 +8,7 @@ function currentSlide(number) {
     slidesShower(indexOfSlide = number);
 }
 
-function slidesShower(number) {
+function slidesShower(number) {w
     let i;
     let slides = document.getElementsByClassName("myPictures");
     let dots = document.getElementsByClassName("dot");
